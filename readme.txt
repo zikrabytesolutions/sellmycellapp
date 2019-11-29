@@ -1,0 +1,2 @@
+Generate apk 
+gradlew assembleRelease
