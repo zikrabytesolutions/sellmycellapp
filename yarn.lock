@@ -4171,9 +4171,9 @@ lodash.unescape@4.0.1:
   integrity sha1-vyJJiGzlFM2hEvrpIYzcBlIR/Jw=
 
 lodash@^4.0.0, lodash@^4.16.4, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-symbols@^2.2.0:
   version "2.2.0"
@@ -5358,11 +5358,6 @@ react-native-animatable@^1.2.4:
   dependencies:
     prop-types "^15.7.2"
 
-react-native-dialog-progress@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/react-native-dialog-progress/-/react-native-dialog-progress-1.0.2.tgz#4e010a436a9c699833f66bd2823634ddcf62dbd1"
-  integrity sha512-+ln2qCjz9keMqvdBMPX1sohchdwjIAY/lxEUsJgVuVMJ7jjvZwo9sZv6MlpoCq22NP0EuxqFPxL+09QLp5hrcQ==
-
 react-native-elements@^1.2.6:
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/react-native-elements/-/react-native-elements-1.2.6.tgz#fda0f49ddf87abdb287de1ec9bc057c103430455"
@@ -5376,11 +5371,6 @@ react-native-elements@^1.2.6:
     prop-types "^15.7.2"
     react-native-ratings "^6.3.0"
     react-native-status-bar-height "^2.2.0"
-
-react-native-flexi-radio-button@^0.2.2:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/react-native-flexi-radio-button/-/react-native-flexi-radio-button-0.2.2.tgz#a0180393c531ba3477722c6e42a31ceb1c11623b"
-  integrity sha1-oBgDk8UxujR3cixuQqMc6xwRYjs=
 
 react-native-gesture-handler@^1.4.1:
   version "1.4.1"
@@ -5453,16 +5443,6 @@ react-native-searchbar@^1.16.0:
   dependencies:
     lodash "^4.16.4"
     react-native-vector-icons "^4.4.2"
-
-react-native-simple-dialogs@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/react-native-simple-dialogs/-/react-native-simple-dialogs-1.2.0.tgz#d3fa8e7b46ea563eed9ee4882e804b9d1b9f3c59"
-  integrity sha512-vH6uYovNeeZmYJbMVWVDF4n8acuPxO/D+iGdnF63j62sVfoR9+4ib7LzqBhYKp6jfwy8keEa/c1hOyabMQx3gQ==
-
-react-native-simple-radio-button@^2.7.4:
-  version "2.7.4"
-  resolved "https://registry.yarnpkg.com/react-native-simple-radio-button/-/react-native-simple-radio-button-2.7.4.tgz#86e2dbe8af9e6bf60eee088f60466f7a975e7758"
-  integrity sha512-QOZNmJUn0ViBGU+at7wAG/uGzd5PfXi0kMHr9lfTCLXknW/f9f2fOVjxjdHvOCdf/zA/eMJBjGjtusSDzQf1+w==
 
 react-native-snackbar@^2.0.2:
   version "2.0.2"
